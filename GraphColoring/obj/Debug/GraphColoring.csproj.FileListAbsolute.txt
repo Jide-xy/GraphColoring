@@ -1,0 +1,6 @@
+c:\users\babajide mustapha\documents\visual studio 2015\Projects\GraphColoring\GraphColoring\bin\Debug\GraphColoring.exe.config
+c:\users\babajide mustapha\documents\visual studio 2015\Projects\GraphColoring\GraphColoring\obj\Debug\GraphColoring.csprojResolveAssemblyReference.cache
+c:\users\babajide mustapha\documents\visual studio 2015\Projects\GraphColoring\GraphColoring\bin\Debug\GraphColoring.exe
+c:\users\babajide mustapha\documents\visual studio 2015\Projects\GraphColoring\GraphColoring\bin\Debug\GraphColoring.pdb
+c:\users\babajide mustapha\documents\visual studio 2015\Projects\GraphColoring\GraphColoring\obj\Debug\GraphColoring.exe
+c:\users\babajide mustapha\documents\visual studio 2015\Projects\GraphColoring\GraphColoring\obj\Debug\GraphColoring.pdb
